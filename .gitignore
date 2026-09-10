@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Raw datasets (downloaded via scripts, not committed)
+data/raw/hostrada/
+data/raw/LBM/
+data/raw/ShapeGermany/
+
+# Processed results (generated per coordinate, not committed)
+data/processed/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/

@@ -1,0 +1,7 @@
+geopandas
+shapely
+xarray 
+netCDF4
+requests 
+dask
+matplotbib
