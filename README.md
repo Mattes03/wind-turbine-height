@@ -56,7 +56,7 @@ assessing wind energy potential:
 > **Context.** 
 > Potential onshore sites for wind turbines are identified based on
 > factors such as distance from residential areas, land costs, soil 
-> conditions, and the local flora and fauna. As part of these eraly
+> conditions, and the local flora and fauna. As part of these early
 > planning steps, a broad overview of the wind profile in these 
 > locations is necessary. The team needs a quick tool to estimate how
 > much wind is available and how high the wind turbine possibly needs
